@@ -1,0 +1,8 @@
+---
+
+
+aws_region: "us-west-1"
+key_pair_name: "v2_statusim"
+base_ami: "ami-1c1d217c"
+security_group: "sg-956272f2"
+launch_config: "statusim_lc"
